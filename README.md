@@ -25,7 +25,7 @@ Time series forecasting is critical in the energy sector for:
 
 ### 1. Forecast Horizon Control
 
-![Forecast Horizon Control](reports/figures/Energy%20Consumption%20after%207%20days.png)
+![Forecast Horizon Control](reports/Energy%20Consumption%20after%207%20days.png)
 *Figure 2: Dashboard showing 7-day forecast with adjustable horizon slider*
 
 The dashboard allows users to:
@@ -35,7 +35,7 @@ The dashboard allows users to:
 
 ### 2. Energy Consumption Forecast
 
-![Energy Consumption Forecast](reports/figures/Energy%20Consumption.png)
+![Energy Consumption Forecast](reports/Energy%20Consumption.png)
 *Figure 3: Detailed forecast table with confidence intervals*
 
 The main forecast visualization shows:
@@ -60,7 +60,7 @@ The main forecast visualization shows:
 
 ### 3. Forecast Data Table
 
-![Forecast Data](reports/figures/Forecast%20Data.png)
+![Forecast Data](reports/Forecast%20Data.png)
 *Figure 4: Detailed hourly forecast data with upper and lower bounds*
 
 The forecast data table provides granular hourly predictions:
@@ -90,12 +90,12 @@ The forecast data table provides granular hourly predictions:
 
 ### Dashboard Metrics Panel
 
-![Insights Dashboard](reports/figures/Insights.png)
+![Insights Dashboard](reports/Insights.png)
 *Figure 5: Key metrics and insights panel showing forecast statistics*
 
 ### 3-Day Forecast Metrics
 
-![3-Day Insights](reports/figures/Insights%20after%203%20days.png)
+![3-Day Insights](reports/Insights%20after%203%20days.png)
 *Figure 6: Detailed metrics for 72-hour forecast*
 
 **Forecast Statistics (7-day horizon):**
@@ -142,12 +142,12 @@ The forecast data table provides granular hourly predictions:
 
 ### Decomposition Analysis
 
-![Time Series Decomposition](reports/figures/Time%20Series%20Decomposition.png)
+![Time Series Decomposition](reports/Time%20Series%20Decomposition.png)
 *Figure 7: Time series decomposition into trend, seasonal, and residual components*
 
 ### Detailed Decomposition View
 
-![Decomposition after 7 Days](reports/figures/Time%20Series%20Decomposition%20after%207%20days.png)
+![Decomposition after 7 Days](reports/Time%20Series%20Decomposition%20after%207%20days.png)
 *Figure 8: Comprehensive decomposition showing all components*
 
 The decomposition separates the time series into four components:
