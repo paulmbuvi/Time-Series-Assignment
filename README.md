@@ -91,7 +91,7 @@ The forecast data table provides granular hourly predictions:
 ### Dashboard Metrics Panel
 
 ![Insights Dashboard](reports/Insights.png)
-*Figure 5: Key metrics and insights panel showing forecast statistics*
+*Figure 5: Key metrics and insights showing for 168-hours*
 
 ### 3-Day Forecast Metrics
 
