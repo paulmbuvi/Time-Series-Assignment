@@ -2,7 +2,7 @@
 
 **Interactive Dashboard for Energy Consumption Analysis and Forecasting**
 
-![Dashboard Overview](reports/figures/Dashboard%20after%203%20days.png)
+![Dashboard Overview](reports/Dashboard%20after%203%20days.png)
 *Figure 1: Complete Dashboard View showing 3-day forecast with historical data*
 
 ---
