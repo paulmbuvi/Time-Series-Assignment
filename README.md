@@ -1,4 +1,4 @@
-#  Time Series Assignement
+# Time Series Assignement
 # Paul Mbuvi - 669984
 # ⚡ Time Series Forecasting: Energy Demand Prediction
 
