@@ -1,6 +1,6 @@
 # Time Series Assignement
 # Paul Mbuvi - 669984
-# ⚡ Time Series Forecasting: Energy Demand Prediction
+# Time Series Forecasting: Energy Demand Prediction
 
 **Interactive Dashboard for Energy Consumption Analysis and Forecasting**
 
@@ -9,11 +9,11 @@
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project demonstrates the application of time series forecasting techniques to predict energy consumption patterns. Using historical electricity demand data, I analyze trends, seasonality, and build predictive models to forecast future energy needs with **95% confidence intervals**.
 
-### 🎯 Area of Interest: Energy & Utilities
+### Area of Interest: Energy & Utilities
 
 Time series forecasting is critical in the energy sector for:
 - **Grid Stability**: Predicting peak demand periods to prevent blackouts
@@ -23,7 +23,7 @@ Time series forecasting is critical in the energy sector for:
 
 ---
 
-## 📈 Interactive Dashboard Features
+## Interactive Dashboard Features
 
 ### 1. Forecast Horizon Control
 
@@ -88,7 +88,7 @@ The forecast data table provides granular hourly predictions:
 
 ---
 
-## 🔍 Key Insights and Metrics
+## Key Insights and Metrics
 
 ### Dashboard Metrics Panel
 
@@ -101,22 +101,22 @@ The forecast data table provides granular hourly predictions:
 *Figure 6: Detailed metrics for 72-hour forecast*
 
 **Forecast Statistics (7-day horizon):**
-- 📊 **Forecast Horizon**: 168 hours (7 days)
-- ⚡ **Expected Total Consumption**: 19,130 kWh
-- 📈 **Peak Forecast**: 158.1 kWh
-- 📉 **Average Forecast**: 113.9 kWh
-- 🎯 **Model Confidence**: 95%
-- 🕐 **Last Updated**: 2026-03-02 18:28
+- **Forecast Horizon**: 168 hours (7 days)
+- **Expected Total Consumption**: 19,130 kWh
+- **Peak Forecast**: 158.1 kWh
+- **Average Forecast**: 113.9 kWh
+- **Model Confidence**: 95%
+- **Last Updated**: 2026-03-02 18:28
 
 **Forecast Statistics (3-day horizon):**
-- 📊 **Forecast Horizon**: 72 hours (3 days)
-- ⚡ **Expected Total Consumption**: 8,200 kWh
-- 📈 **Peak Forecast**: 158.1 kWh
-- 📉 **Average Forecast**: 113.9 kWh
-- 🎯 **Model Confidence**: 95%
-- 🕐 **Last Updated**: 2026-03-02 18:25
+- **Forecast Horizon**: 72 hours (3 days)
+- **Expected Total Consumption**: 8,200 kWh
+- **Peak Forecast**: 158.1 kWh
+- **Average Forecast**: 113.9 kWh
+- **Model Confidence**: 95%
+- **Last Updated**: 2026-03-02 18:25
 
-### 💡 Key Insights Discovered
+### Key Insights Discovered
 
 1. **Peak Demand Hours**
    - Highest consumption occurs during **7-9 AM** (morning ramp-up)
@@ -140,7 +140,7 @@ The forecast data table provides granular hourly predictions:
 
 ---
 
-## 📉 Time Series Decomposition
+## Time Series Decomposition
 
 ### Decomposition Analysis
 
@@ -203,7 +203,7 @@ The decomposition separates the time series into four components:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 - Python 3.8+
